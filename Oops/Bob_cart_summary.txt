@@ -1,0 +1,5 @@
+Cart Summary:
+Laptop - Quantity: 1, Unit Price: 50000.00, Total: 50000.00
+Mobile - Quantity: 5, Unit Price: 20000.00, Total: 100000.00
+
+Final Total: 150000.00

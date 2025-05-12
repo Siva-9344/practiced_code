@@ -1,0 +1,9 @@
+Order Receipt - 8d8665ca
+Customer: Bob
+Date: 2025-05-07 17:42:30
+
+Items:
+Laptop - Qty: 1, Unit Price: 50000.00, Total: 50000.00
+Mobile - Qty: 5, Unit Price: 20000.00, Total: 100000.00
+
+Total Amount: 150000.00

@@ -1,0 +1,5 @@
+Cart Summary:
+Mobile - Quantity: 2, Unit Price: 20000.00, Total: 40000.00
+Speaker - Quantity: 1, Unit Price: 1500.00, Total: 1500.00
+
+Final Total: 41500.00

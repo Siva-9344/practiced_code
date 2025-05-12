@@ -1,0 +1,4 @@
+Cart Summary: 
+Mobile - Quantity : 2,Unit_price : 20000.00,Total: 40000.00
+laptop - Quantity : 1,Unit_price : 50000.00,Total: 50000.00
+Speaker - Quantity : 3,Unit_price : 1500.00,Total: 4500.00

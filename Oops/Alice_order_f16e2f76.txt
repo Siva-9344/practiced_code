@@ -1,0 +1,9 @@
+Order Receipt - f16e2f76
+Customer: Alice
+Date: 2025-05-07 17:46:27
+
+Items:
+Mobile - Qty: 2, Unit Price: 20000.00, Total: 40000.00
+Speaker - Qty: 1, Unit Price: 1500.00, Total: 1500.00
+
+Total Amount: 41500.00
